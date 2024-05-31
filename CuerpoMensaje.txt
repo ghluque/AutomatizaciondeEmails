@@ -1,0 +1,9 @@
+Hola {} buenas tardes, 
+
+Adjunto Factura de honorarios correspondiente al mes de {} de 2024.
+
+Saludos. 
+
+
+Gastón Luque
+
