@@ -1,4 +1,4 @@
-# Send Email Automation from Outlook with Python
+# Automate send Emails from Outlook with Python
 
 In this case use csv file for database: name, email adress, Cc email adress, name of attached file. 
 
